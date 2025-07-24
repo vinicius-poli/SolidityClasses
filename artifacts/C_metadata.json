@@ -7,12 +7,20 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
+				"name": "data",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "getResult",
+				"name": "y",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -37,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"welcome-to-solidity.sol": "WelcomeToSolidity"
+			"4.3.Variable-Scope-Example.sol": "C"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -51,11 +59,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"welcome-to-solidity.sol": {
-			"keccak256": "0x7236df342d443793a003d60b97aa85ca392df362bb213571e31ed2fa1c11a193",
+		"4.3.Variable-Scope-Example.sol": {
+			"keccak256": "0x707c8683d0e9acb1f9725bc3ab5e071060c4bfbeab6c697ea37307a59c2a8075",
 			"urls": [
-				"bzz-raw://d8f3708560492e2fb9fe5dcfdeae60edac89079daa7b21d762de61d0416b366c",
-				"dweb:/ipfs/QmbTaTX4oJKTcrw93V2cjwMiYm9ay2PATZvAhWUvUX7Tgo"
+				"bzz-raw://b20866ad17697adcb984676a418b494e027c0446d7636063a1ac0e870d9a84a2",
+				"dweb:/ipfs/QmQTyFfq1tM6wwJxvWk1VbGTkhgN6tEkU8ifgtyFMaSBq8"
 			]
 		}
 	},

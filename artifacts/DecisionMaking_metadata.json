@@ -7,17 +7,25 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "getResult",
+				"name": "airDrop",
 				"outputs": [
 					{
 						"internalType": "uint256",
 						"name": "",
 						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "validateOranges",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -37,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"welcome-to-solidity.sol": "WelcomeToSolidity"
+			"decision-making.sol": "DecisionMaking"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -51,11 +59,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"welcome-to-solidity.sol": {
-			"keccak256": "0x7236df342d443793a003d60b97aa85ca392df362bb213571e31ed2fa1c11a193",
+		"decision-making.sol": {
+			"keccak256": "0x26537a85d9377f4577c14b9759a9eb5d5a4d2303b675a7543805853c33646c8c",
 			"urls": [
-				"bzz-raw://d8f3708560492e2fb9fe5dcfdeae60edac89079daa7b21d762de61d0416b366c",
-				"dweb:/ipfs/QmbTaTX4oJKTcrw93V2cjwMiYm9ay2PATZvAhWUvUX7Tgo"
+				"bzz-raw://b5cd911805358037434852e13edc75bda66281590f2090443f95d6269511dfeb",
+				"dweb:/ipfs/QmYQgqHeirG7hrxcF1F9nj3rWL2mWNtw4FuPj3s6jbNurF"
 			]
 		}
 	},
