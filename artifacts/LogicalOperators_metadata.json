@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "logic",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "logic1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"4.7.Logical-Operators.sol": "LogicalOperators"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"4.7.Logical-Operators.sol": {
+			"keccak256": "0x2b82b38a7ef7ff42db8e43b024f3a458e6a061fb487bf9dba27f3358366d13fc",
+			"urls": [
+				"bzz-raw://d13a6b1a814efbc4896c530ba1be2b569be7ac5fb192b434d76d9dc1557bcfda",
+				"dweb:/ipfs/QmUd7GzLz2UgWSFftZ1UUmdiok1XiJbdRrGKK5pLdpVQvG"
+			]
+		}
+	},
+	"version": 1
+}

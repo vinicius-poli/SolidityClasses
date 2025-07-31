@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "finalize",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"4.8.Assignment-Operator.sol": "FinalExercise"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"4.8.Assignment-Operator.sol": {
+			"keccak256": "0x03333b128a1913744048ee6c89da2007d54c2f7e3cf6bb62535d415a6b516dbf",
+			"urls": [
+				"bzz-raw://bfd0b01438d5fc6ad7b5fc9c1f5eb9b6c5483967fb6daf64ba32157464255259",
+				"dweb:/ipfs/QmcqFPdUUuPpUf4GW7MZSwcgGTA8tENJzae1NA246uJFGm"
+			]
+		}
+	},
+	"version": 1
+}

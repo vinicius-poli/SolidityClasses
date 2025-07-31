@@ -6,7 +6,8 @@ pragma solidity >= 0.5.0 < 0.9.0;
 //specific mathematical, relational or logical operation and produce final result.
 
 // Arithmetic Operators: + - % / *
-// Comparison Operators: = ==
+// Comparison Operators:  == < > <= >=
+// Assignment Operator: = += -= *=
 
 // Operands: variables a b c
 
