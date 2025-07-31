@@ -19,7 +19,7 @@ contract AssignmentOprator {
 //4. Initialize d to 23 
 //5. return d in short handed assignment form to multiply itself by itself and then substracted by b
 //6. Make the function conditional so that it will only return the multiplication if a is greater than
-//or equal to a and b is less than f otherwise d should return 23.
+//or equal to b and b is less than f otherwise d should return 23.
 
 contract FinalExercise {
     uint a = 300;
@@ -28,7 +28,7 @@ contract FinalExercise {
 
     function finalize() public view returns(uint) {
         uint d = 23;
-        if (a >= a && b < f){
+        if (a >= b && b < f){
         d *= d;
         d -= b;
         }
