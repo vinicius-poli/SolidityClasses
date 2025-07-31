@@ -47,10 +47,10 @@
 	},
 	"sources": {
 		"4.8.Assignment-Operator.sol": {
-			"keccak256": "0x03333b128a1913744048ee6c89da2007d54c2f7e3cf6bb62535d415a6b516dbf",
+			"keccak256": "0xdf516917a6e77f52f2ff54ac835e9f8c03cf848d1fdda5ce47f5c9bf879f06c6",
 			"urls": [
-				"bzz-raw://bfd0b01438d5fc6ad7b5fc9c1f5eb9b6c5483967fb6daf64ba32157464255259",
-				"dweb:/ipfs/QmcqFPdUUuPpUf4GW7MZSwcgGTA8tENJzae1NA246uJFGm"
+				"bzz-raw://97b582ceba8a29a728df436d1b85bba352b1b67c743bfee3c67c64b7d7b1d401",
+				"dweb:/ipfs/QmUiTZWjkdV6iyxGwdD67Mh7nvyTtsHonJgWCw9hnit21E"
 			]
 		}
 	},

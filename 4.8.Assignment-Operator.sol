@@ -23,13 +23,14 @@ contract AssignmentOprator {
 
 contract FinalExercise {
     uint a = 300;
-    uint b = 48;
+    uint b = 12;
     uint f = 47;
 
     function finalize() public view returns(uint) {
-        uint d= 23;
+        uint d = 23;
         if (a >= a && b < f){
-        d *= d - b;
+        d *= d;
+        d -= b;
         }
         return d;
     }
