@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_Number",
+						"type": "uint256"
+					}
+				],
+				"name": "countNumber",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "evenNumbers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"5.2.Exercise.sol": "myLoopingPracticeContract"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"5.2.Exercise.sol": {
+			"keccak256": "0xc6d9eab4f723c7b8715073347b047d3959338207c37a23a87ffe068b95161ddf",
+			"urls": [
+				"bzz-raw://c983a814f471a9ef78c3b77faddc84cacc1d3e9d3c4ef38b1ede3c44a9e79dd0",
+				"dweb:/ipfs/QmNfmTecKqwz15DaWBTmJC5YqeqSZBPMPRy8B7xQ6T9wBj"
+			]
+		}
+	},
+	"version": 1
+}
