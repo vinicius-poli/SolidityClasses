@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getChoice",
+				"outputs": [
+					{
+						"internalType": "enum exerciseEnum.shirtColor",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getDefaultChoice",
+				"outputs": [
+					{
+						"internalType": "enum exerciseEnum.shirtColor",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setWhite",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"6.6.Exercise.sol": "exerciseEnum"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"6.6.Exercise.sol": {
+			"keccak256": "0xba046eb680ab8b25e862252961b82ed675bb260faa267a0c4e8549907ba9e0ba",
+			"urls": [
+				"bzz-raw://4f3a47cb75ef514be0ce1ec85219586e8a3c03902d198a0565ec355f81fad352",
+				"dweb:/ipfs/QmeD5LvnQX1SaHBjZ1kHeEHMiCzRuAitGXXz4HkexYZWD2"
+			]
+		}
+	},
+	"version": 1
+}
