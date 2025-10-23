@@ -1,0 +1,107 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_addrOwner",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					}
+				],
+				"name": "addContra",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_addrOwner",
+						"type": "address"
+					}
+				],
+				"name": "allow",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_addrSpender",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "_addrOwner",
+						"type": "address"
+					}
+				],
+				"name": "allow2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"6.12.Assigment.sol": "allowance"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"6.12.Assigment.sol": {
+			"keccak256": "0x93689f3fd3a57b81ebe16a21dd60da3473d8d47a797544925abe618f16fd6daa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fb34751c5bf9bed73884777ba582d85d08c2b63560c260306f4650ba4ac161f4",
+				"dweb:/ipfs/QmWTmzBhYdmq9FLkWToYxz1L7XBXZU647thg31FxZNV3Aj"
+			]
+		}
+	},
+	"version": 1
+}
