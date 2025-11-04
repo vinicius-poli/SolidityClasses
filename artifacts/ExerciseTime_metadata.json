@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "exercise",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"7.3.Exercise.sol": "ExerciseTime"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"7.3.Exercise.sol": {
+			"keccak256": "0xa719ceb76fed9e0c10234e608f49efd8ca002341b66ff57b5866d6e2ee841ade",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://56474df237b81abb718fbc2c35146817e674a89e598e8d9982aef0d6a3a6d8a4",
+				"dweb:/ipfs/QmaUHNG91hJo7UpDEh6sJu8GoX1xEqVAeAgQn3oAtHksro"
+			]
+		}
+	},
+	"version": 1
+}

@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"7.1.BitsAndUints.sol": {
-			"keccak256": "0x71fae3068e88ff17037e00a78b88d1aa9a737174d9a08136d9cb2cd6922f4fb4",
+			"keccak256": "0xb3239ccc8e8d136279209939fca2eb616743640d48bba956a9bdea88487d1c0d",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://10dba384c03cfae11c1d1c146abc15f7756260df2469d88c77f8b2bc3139dab7",
-				"dweb:/ipfs/QmR8GnY331GRkoPsLiwoYZT239kne33TqG2DCdEP4dUjeA"
+				"bzz-raw://830dbb5b2a30de68859693c6f70e6dc0f4314588c0fc9f47df2715af4c260f4c",
+				"dweb:/ipfs/QmZFfXdqr1gxA6YFSCS1mUN37bWaw5c359mNGtDeuhHL5H"
 			]
 		}
 	},
