@@ -1,0 +1,76 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "gas",
+						"type": "uint256"
+					}
+				],
+				"name": "Log",
+				"type": "event"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "fallback"
+			},
+			{
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"8.5.Fallback-Function.sol": "FallBack"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"8.5.Fallback-Function.sol": {
+			"keccak256": "0x35026ecad5d0bc22351efe00050df6f8f4b6961ca5b203d81b81aef3f5f6845d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://809f7d87966e510f851e77a1bdb443d7c5ac339e8dc02325564c3429dbc76b67",
+				"dweb:/ipfs/QmbCTW6qdSCisKM6HVYHaELGxfWGyWwKGNCT3e7HW9YYtX"
+			]
+		}
+	},
+	"version": 1
+}
